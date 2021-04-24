@@ -1,0 +1,15 @@
+{
+    "port": 1337,
+    "coinmarketcap_api": {
+        "base_url": "https://pro-api.coinmarketcap.com/v1",
+        "token": "<COIN_TOKEN>"
+    },
+    "trade": {
+        "medium_risk": {
+            "bucket": 10,
+            "percent_change_1h": 5,
+            "percent_change_24h": 10,
+            "value": 5000
+        }
+    }
+}
